@@ -3,6 +3,9 @@ export const ALL_PERMISSIONS = [
   "users:roles:write",
   "users:roles:delete",
 
+  // rolet
+  "roles:write",
+
   // posts
   "posts:write",
   "posts:read",
