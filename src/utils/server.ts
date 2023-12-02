@@ -8,6 +8,7 @@ import jwt from "jsonwebtoken";
 
 type User = {
   id: string,
+  applicationId: string,
   scropes: Array<string>;
 }
 
